@@ -16,22 +16,22 @@ Authors -
 * Different Materials <br>
     Preview of Addon and Materials
         <p float="left">
-            <img src="preview-material/Material AddOn.jpg" alt="Addon" width="250" height="300"/>
+            <img src="preview-materials/Material AddOn.jpg" alt="Addon" width="250" height="300"/>
         </p>
     There are total 16 materials -
     * Precious Metals
         <p float="left">
-        <img src="preview-material/gold.png" alt="Gold" width="300" height="300"/>
-        <img src="preview-material/silver.png" alt="Silver" width="300" height="300"/>
+        <img src="preview-materials/gold.png" alt="Gold" width="300" height="300"/>
+        <img src="preview-materials/silver.png" alt="Silver" width="300" height="300"/>
         </p>
     * General Metal
         <p float="left">
-        <img src="preview-material/metal.png" alt="Metal Rusty Nugget" width="300" height="300"/>
-        <img src="preview-material/metal1.png" alt="Galvanized Chrome Damaged Scratched" width="300" height="300"/>
+        <img src="preview-materials/metal.png" alt="Metal Rusty Nugget" width="300" height="300"/>
+        <img src="preview-materials/metal1.png" alt="Galvanized Chrome Damaged Scratched" width="300" height="300"/>
         </p>
     * Winter
         <p float="left">
-        <img src="preview-material/winter.png" alt="Snow Candy Gingerbread" width="300" height="300"/><br>
+        <img src="preview-materials/winter.png" alt="Snow Candy Gingerbread" width="300" height="300"/><br>
         </p>
 <br>
 
