@@ -1,7 +1,7 @@
 bl_info = {
     "name" : "Materials AddOn",
     "author" : "Anuraag",
-    "version" : (1, 0),
+    "version" : (0, 1, 0),
     "blender" : (2, 93, 6),
     "location" : "View3d > Toolshelf",
     "desciption" : "Includes various materials",
